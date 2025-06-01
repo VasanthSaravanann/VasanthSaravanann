@@ -35,7 +35,7 @@ My work bridges **machine learning**, **biometric systems**, and **real-world pr
 ### 👀 Curious?
 
 Let’s connect & build something impactful.  
-📫 [Email me](mailto:your@email.com) or say hi on [LinkedIn](https://linkedin.com/in/your-link)
+📫 [Email me](vasanths991@gmail.com) or say hi on [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/vasanthsaravanan/))
 
 ---
 _"Creating tech with purpose."_ 🔍

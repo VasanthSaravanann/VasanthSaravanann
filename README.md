@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vasanth S
+# 👋 Hi, I'm Vasanth Saravanan
 
 🚀 CS + Data Science undergrad | 🧠 AI/ML Enthusiast | 📊 Researcher  
 📍 Based in India | Passionate about building smart, scalable systems

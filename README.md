@@ -27,7 +27,6 @@ My work bridges **machine learning**, **biometric systems**, and **real-world pr
 
 - **Published** 3 international research papers in AI/ML  
 - **Developed** a computer vision system for waste detection  
-- **Interning** at SLATE as a frontend engineer  
 - **Studying** at R.M.K. College & IIT Madras (BS in Data Science)
 
 ---

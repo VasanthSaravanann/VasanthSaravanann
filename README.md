@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Vasanth Saravanan
 
 🚀 CS + Data Science undergrad | 🧠 AI/ML Enthusiast | 📊 Researcher  
-📍 Based in India | Passionate about building smart, scalable systems
+📍 Based in India | Passionate about building smart.
 
 ---
 
 ### ⚡ About Me
 
 I'm currently exploring how we can make AI more explainable, efficient, and human-aligned.  
-My work bridges **machine learning**, **biometric systems**, and **real-world problem solving** — from **smart city solutions** to **AI-powered payments**.
-
-> 🛠️ Currently ideating **Biopay** – a biometric-based payment system integrating fingerprint auth & smart service comparison.
+My work bridges **machine learning**, **real-world problem solving** .
 
 ---
 

@@ -14,7 +14,7 @@ My work bridges **machine learning**, **real-world problem solving** .
 
 ### 🔍 What I'm Into
 
-- 🤖 Building intelligent systems (LLMs, LangChain, GenAI)
+- 🤖 Building intelligent systems
 - 🧪 Publishing research (Explainable AI, Deep Learning Robustness)
 - 🛠️ Frontend magic with React & Tailwind
 - 💡 Turning ideas into scalable, human-focused tech
@@ -25,7 +25,7 @@ My work bridges **machine learning**, **real-world problem solving** .
 
 - **Published** 3 international research papers in AI/ML  
 - **Developed** a computer vision system for waste detection  
-- **Studying** at R.M.K. College & IIT Madras (BS in Data Science)
+- **Studied** at R.M.K. College & IIT Madras (BS in Data Science)
 
 ---
 

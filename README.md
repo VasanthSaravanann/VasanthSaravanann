@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vasanth Saravanan
 
-🚀 CS + Data Science undergrad | 🧠 AI/ML Enthusiast | 📊 Researcher  
-📍 Based in India | Passionate about building smart.
+🚀 CS  | 🧠 AI/ML Enthusiast | 📊 Researcher  
+📍 Based in Melbourne | Passionate about building smart.
 
 ---
 
@@ -25,7 +25,7 @@ My work bridges **machine learning**, **real-world problem solving** .
 
 - **Published** 3 international research papers in AI/ML  
 - **Developed** a computer vision system for waste detection  
-- **Studied** at R.M.K. College & IIT Madras (BS in Data Science)
+- **Studied** at R.M.K. College of Engineering and Technology
 
 ---
 
